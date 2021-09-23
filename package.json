@@ -1,0 +1,31 @@
+{
+  "name": "profanity-filter",
+  "version": "1.0.0",
+  "main": "get-current-song-lyrics.js",
+  "scripts": {
+    "start": "node get-current-song-lyrics"
+  },
+  "author": "Pilot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "genius-lyrics-api": "^3.0.6",
+    "module-exports": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inhabited/profanity-filter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inhabited/profanity-filter/issues"
+  },
+  "homepage": "https://github.com/inhabited/profanity-filter#readme",
+  "description": ""
+}
