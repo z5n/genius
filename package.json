@@ -1,11 +1,11 @@
 {
-  "name": "profanity-filter",
+  "name": "genius",
   "version": "1.0.0",
   "main": "get-current-song-lyrics.js",
   "scripts": {
     "start": "node get-current-song-lyrics"
   },
-  "author": "Pilot",
+  "author": "z5n",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.4",
@@ -21,11 +21,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inhabited/profanity-filter.git"
+    "url": "git+https://github.com/z5n/genius.git"
   },
   "bugs": {
-    "url": "https://github.com/inhabited/profanity-filter/issues"
+    "url": "https://github.com/z5n/genius/issues"
   },
-  "homepage": "https://github.com/inhabited/profanity-filter#readme",
+  "homepage": "https://github.com/z5n/genius#readme",
   "description": ""
 }
